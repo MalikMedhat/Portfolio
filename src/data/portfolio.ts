@@ -232,7 +232,7 @@ export const en: Content = {
         "Containerized with Docker for consistent local and production environments",
       ],
       tech: ["Java", "Spring Boot", "Spring Security", "JWT", "React", "TypeScript", "MySQL", "Docker"],
-      github: `https://github.com/${GITHUB_USERNAME}/ecommerce-platform`,
+      github: `https://github.com/${GITHUB_USERNAME}/E-commerce`,
       cover: coverBlue,
     },
     {
@@ -250,7 +250,7 @@ export const en: Content = {
         "Clean, responsive chat interface",
       ],
       tech: ["Java", "Spring Boot 3", "Spring AI", "Groq API", "Llama 3.1", "HTML", "CSS"],
-      github: `https://github.com/${GITHUB_USERNAME}/ai-chatbot-platform`,
+      github: `https://github.com/${GITHUB_USERNAME}/Spring-AI-chatbot-website`,
       cover: coverViolet,
     },
     {
@@ -268,7 +268,7 @@ export const en: Content = {
         "Low-latency delivery for a native chat feel",
       ],
       tech: ["Java", "Spring Boot", "WebSockets"],
-      github: `https://github.com/${GITHUB_USERNAME}/realtime-chat`,
+      github: `https://github.com/${GITHUB_USERNAME}/Chat-Application-`,
       cover: coverEmerald,
     },
   ],
@@ -319,7 +319,7 @@ export const en: Content = {
     socials: [
       { label: "Email", value: "malikmedhat77@gmail.com", href: "mailto:malikmedhat77@gmail.com", icon: "mail" },
       { label: "Phone", value: "+20 1011091749", href: "tel:+201011091749", icon: "phone" },
-      { label: "LinkedIn", value: "linkedin.com/in/malik-medhat", href: "https://www.linkedin.com/in/malik-medhat", icon: "linkedin" },
+      { label: "LinkedIn", value: "linkedin.com/in/malik-medhat-34732034a", href: "https://www.linkedin.com/in/malik-medhat-34732034a/", icon: "linkedin" },
       { label: "GitHub", value: "github.com/MalikMedhat", href: "https://github.com/MalikMedhat", icon: "github" },
       { label: "Location", value: "Giza, Cairo, Egypt", href: "https://maps.google.com/?q=Giza,+Egypt", icon: "map-pin" },
     ],
@@ -484,7 +484,7 @@ export const de: Content = {
         "Mit Docker containerisiert für konsistente lokale und Produktionsumgebungen",
       ],
       tech: ["Java", "Spring Boot", "Spring Security", "JWT", "React", "TypeScript", "MySQL", "Docker"],
-      github: `https://github.com/${GITHUB_USERNAME}/ecommerce-platform`,
+      github: `https://github.com/${GITHUB_USERNAME}/E-commerce`,
       cover: coverBlue,
     },
     {
@@ -502,7 +502,7 @@ export const de: Content = {
         "Saubere, responsive Chat-Oberfläche",
       ],
       tech: ["Java", "Spring Boot 3", "Spring AI", "Groq API", "Llama 3.1", "HTML", "CSS"],
-      github: `https://github.com/${GITHUB_USERNAME}/ai-chatbot-platform`,
+      github: `https://github.com/${GITHUB_USERNAME}/Spring-AI-chatbot-website`,
       cover: coverViolet,
     },
     {
@@ -520,7 +520,7 @@ export const de: Content = {
         "Niedrige Latenz für ein natives Chat-Gefühl",
       ],
       tech: ["Java", "Spring Boot", "WebSockets"],
-      github: `https://github.com/${GITHUB_USERNAME}/realtime-chat`,
+      github: `https://github.com/${GITHUB_USERNAME}/Chat-Application-`,
       cover: coverEmerald,
     },
   ],
@@ -571,7 +571,7 @@ export const de: Content = {
     socials: [
       { label: "E-Mail", value: "malikmedhat77@gmail.com", href: "mailto:malikmedhat77@gmail.com", icon: "mail" },
       { label: "Telefon", value: "+20 1011091749", href: "tel:+201011091749", icon: "phone" },
-      { label: "LinkedIn", value: "linkedin.com/in/malik-medhat", href: "https://www.linkedin.com/in/malik-medhat", icon: "linkedin" },
+      { label: "LinkedIn", value: "linkedin.com/in/malik-medhat-34732034a", href: "https://www.linkedin.com/in/malik-medhat-34732034a/", icon: "linkedin" },
       { label: "GitHub", value: "github.com/MalikMedhat", href: "https://github.com/MalikMedhat", icon: "github" },
       { label: "Standort", value: "Giza, Kairo, Ägypten", href: "https://maps.google.com/?q=Giza,+Egypt", icon: "map-pin" },
     ],
